@@ -1,7 +1,7 @@
 ﻿/// Week 11		Lab 
 /// File Name: Program.cs
 /// @author: Antonio Monteiro
-/// Date:  October 5th 2020
+
 
 using System;
 using System.Collections.Generic;
